@@ -6,12 +6,12 @@ The login page.
 
 <br /> 
 
-Student home page. 
+Student home page
 <img src="Screenshots/Student Home Page.png">
 
 <br /> 
 
-Teacher home page.
+Teacher home page
 <img src="Screenshots/Teacher Home Page.png">
 
 <br /> 
