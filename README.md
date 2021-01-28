@@ -1,7 +1,7 @@
 # E-Formation
 E-Formation is an E-Learning website based on JEE technology. We used Spring MVC, Hibernate (JPA), MySQL, JSP and Maven. 
 
-The login page. 
+The login page
 <img  src="Screenshots/Home page.png">
 
 <br /> 
